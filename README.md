@@ -1,1 +1,1 @@
-# comic-scraping-script
+# Сomic-scraping-script
